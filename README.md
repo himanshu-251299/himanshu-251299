@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hey, I'm Himanshu 👋
 
-<!--
-**himanshu-251299/himanshu-251299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Java · Spring Ecosystem · AI-powered backends**
 
-Here are some ideas to get you started:
+Backend engineer specialising in **Java and the Spring ecosystem** — from securing APIs with Spring Security to orchestrating distributed systems with Spring Cloud. My current focus is the intersection of **Spring AI and LLMs**: building systems where language models aren't just a feature, but the core of the product.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I gravitate toward problems that are hard to Google. Both projects below started as "I wonder if this is possible" and ended as production-grade codebases.
+
+---
+
+### 🛠 Stack
+
+`Java` `Spring Boot` `Spring AI` `Spring Security` `Spring Data / JPA` `Spring Cloud` `OpenAI API` `MCP Protocol` `REST APIs` `MySQL` `Docker`
+
+---
+
+### 📌 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [help-desk-ai](https://github.com/himanshu-251299/help-desk-ai) | AI-powered help desk built on Spring Boot and Spring AI. Uses OpenAI for intelligent ticket routing, triage, and customer support — backed by MySQL and REST APIs. | Spring AI · OpenAI · Spring Boot · MySQL |
+| [mcp-app](https://github.com/himanshu-251299/mcp-app) | End-to-end MCP (Model Context Protocol) implementation using Spring AI and Spring Boot — demonstrating AI tool integration, client-server communication, and extensible agent design. | MCP · Spring AI · Agents · Spring Boot |
+
+---
+
+### 📫 Let's Connect
+
+I'm **open to backend engineering roles** where production Java meets modern AI tooling. If your team is building intelligent systems — or wants to — let's talk.
+
+[LinkedIn](https://www.linkedin.com/in/iam-himanshu)) · [Email me](mailto:himanshuy251299@gmail.com)
