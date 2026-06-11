@@ -27,4 +27,4 @@ I gravitate toward problems that are hard to Google. Both projects below started
 
 I'm **open to backend engineering roles** where production Java meets modern AI tooling. If your team is building intelligent systems — or wants to — let's talk.
 
-[LinkedIn](https://www.linkedin.com/in/iam-himanshu)) · [Email me](mailto:himanshuy251299@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/iam-himanshu) · [Email me](mailto:himanshuy251299@gmail.com)
